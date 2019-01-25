@@ -1,0 +1,4 @@
+React Layer (in narrative.txt file)
+narrative:
+In this section are defined the functional test of the react components for Greetings Gvo
+(as well in narrative.txt file)

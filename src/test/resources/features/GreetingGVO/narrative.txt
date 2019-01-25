@@ -1,0 +1,4 @@
+Greetings GVO (in narrative.txt file)
+narrative:
+In this section are defined the functional test  for Greetings Gvo
+(as well in narrative.txt file)
